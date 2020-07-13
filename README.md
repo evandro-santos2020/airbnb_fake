@@ -12,7 +12,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-191A1E">
 
   <a href="https://github.com/evandro-santos2020">
-    <img alt="Made by Evandro Santos" src="https://img.shields.io/badge/Made%20by-Bruno%20Henrique%20Saibert-191A1E">
+    <img alt="Made by Evandro Santos" src="https://img.shields.io/badge/Made%20by-Evandro%20Santos-191A1E">
   </a>
 
   <a href="https://www.linkedin.com/in/santos-evandro/">
