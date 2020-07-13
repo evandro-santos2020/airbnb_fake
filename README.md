@@ -20,7 +20,6 @@
   </a>
 </p>
 
-![Demonstração](https://github.com/evandro-santos2020/_assets/airbnb.png?raw=true)
 
 ## 🚀 Projeto
 
