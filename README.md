@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/santos-evandro/">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-brunohenriquesaibert-191A1E?style=social&logo=linkedin">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-santos-evandro-191A1E?style=social&logo=linkedin">
   </a>
 </p>
 
