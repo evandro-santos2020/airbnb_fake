@@ -15,9 +15,6 @@
     <img alt="Made by Evandro Santos" src="https://img.shields.io/badge/Made%20by-Evandro%20Santos-191A1E">
   </a>
 
-  <a href="https://www.linkedin.com/in/santos-evandro/">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-santos-evandro-191A1E?style=social&logo=linkedin">
-  </a>
 </p>
 
 
